@@ -29,8 +29,8 @@ body {
 }
 
 .profile img {
-    width: 120px;
-    height: 120px;
+    width: 180px;
+    height: 180px;
     border-radius: 50%;
     border: 5px solid #fff;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -63,7 +63,7 @@ body {
     align-items: center;
     width: 45px;
     height: 45px;
-    background-color: #ffb700;
+    background-color: #808080;
     color: white;
     border-radius: 50%;
     font-size: 22px;
@@ -73,7 +73,7 @@ body {
 
 
 .social-links a:hover {
-    background-color: #95a5a6;
+    background-color: #ffb700;
     transform: translateY(-5px);
 }
 
@@ -101,7 +101,7 @@ body {
 }
 
 .link-item:hover {
-    background-color: #2980b9;
+    background-color: #808080;
     transform: translateY(-5px);
 }
 
